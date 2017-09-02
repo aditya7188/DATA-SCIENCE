@@ -1,0 +1,89 @@
+Data Scientist:-
+
+Historical Data +Accurately Predicting Pattrens=Data Analytics
+
+What is data science?
+Data Driven making
+Building buiness strategies based on the data analysis
+Removing the manual and judgemental error
+Making use of past experience(data) to make build future strategies
+
+Application of data science
+1.Recommendation systems
+2.Image recognition
+3.Speech recognition
+4.Spam filtering
+5.Fraud transaction identification
+6.Identify Sales leads
+7.Cross selling and upselling
+
+*What is Data Science*
+Data Science is afusin of many fields:-
+1.Databae management
+2.Data Analytics
+3.Predictive modelling
+4.Machine Learing
+5.Big data Distributed computing
+6.Coding
+7.Data visualizations
+8.Reporting
+
+The four major type of Skills for Data science are:-
+1)Database knowledge:-
+         -->Data base Managment
+         -->Data blending
+         -->Querying
+         -->Data manipulations
+         -->ETL
+2)Predictive Analytics and ML(machine Learning)
+         -->Basic descriptive statistics
+         -->Advanced analytics
+         -->Predictive modeling
+         -->Machine Learning
+3)Big Data knowledge
+        -->Distributed Computing
+        -->Big Data analytics
+        -->Unstructured data analysis
+4)Presentation Skill
+        -->Data visualizations
+        -->Report desing    
+        -->Insights presentation
+
+Databasse tools:-
+        SQL/MySql
+        OLAP cubes
+        Teradata
+        DB2/Sql Server/Oracle/Informix/Exadata
+Analytical tools
+        SAS/R/SPSS/Python
+        Weka/MATLAB
+Big Data Tools:-(Distributed computing tools)
+         Hadoop, Hive, Pig, Mahout, Spark,Java
+Presentation Tools
+        Excel
+        Tableau, Qlikview
+
+
+Data Science- Designations:-
+  1.Designations related to Database knowledge
+         Database Developer
+         ETL Developer
+         MIS & DB Develper
+         Data Architect
+         Data Engineer
+ 2.Designations related to Predictive Analytics and ML(machine Learning)
+          Data Analyst
+          Statisticians
+          Business Analyst
+          Data Scientist
+ 3.Designation relayted to Big Data knowledge
+          Big Data Developer
+          Hadoop Developer
+          Software Engineer
+4.Designation related to Presentation Skill
+          MIS Analyst
+          Reporting Analyst
+          Business Analyst
+
+
+
